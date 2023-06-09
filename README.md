@@ -16,3 +16,8 @@ My craft is as follows:
 **⚡ Hobby: AI Enthusiast, Hiking, Baking <br/>
 **📫 How to reach me: karimucheru98@gmail.com**<br/>
 -->
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?KariMucheru
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KariMucheru&theme=dark&background=000000)](https://git.io/streak-stats)
