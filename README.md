@@ -4,16 +4,15 @@
 **KariMucheru/KariMucheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=marthamwangi" alt="visitor badge"/></p>
 <!-- 
-A Software Developer with industry experience building web application used by thousands of people. Specializing in Python, JavaScript, BlockChain technologies and Machine Learning. Professional experience working with Angular, Python and Typescript.  -->
+A Software Developer with industry experience building web application used by thousands of people. Specializing in Frontend development technologies. Professional experience working with React Js, Python and Typecsript.  -->
 
 My craft is as follows:
 * **Frontend**: HTML, CSS, JavaScript, React, Angular, Bootstrap, JSON
 * **Backend**: NodeJS, PHP, C#, SQL
 * **Cloud Computing**: AWS, Google Cloud Platform
-* **Shell Basics and writing Scripts**
 * **C programming**
-* **Atlassian Products**
 
-**⚡ Hobby: AR Enthusiast, Unity Development, Immersive 3D**<br/>
-**📫 How to reach me: martyturing@gmail.com**<br/>
+
+**⚡ Hobby: AI Enthusiast, Hiking, Baking <br/>
+**📫 How to reach me: karimucheru98@gmail.com**<br/>
 -->
