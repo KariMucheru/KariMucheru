@@ -5,12 +5,13 @@
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=marthamwangi" alt="visitor badge"/></p>
 <!-- 
 A Software Developer with industry experience building web application used by thousands of people. Specializing in Frontend development technologies. Professional experience working with React Js, Python and Typecsript.  -->
+I like playing around with data as well!
 
 My craft is as follows:
-* **Frontend**: HTML, CSS, JavaScript, React, Angular, Bootstrap, JSON
-* **Backend**: NodeJS, PHP, C#, SQL
+* **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, JSON
+* **Data Analytics** : Python, SQL, Power BI, Excel
 * **Cloud Computing**: AWS, Google Cloud Platform
-* **C programming**
+
 
 
 **⚡ Hobby: AI Enthusiast, Hiking, Baking <br/>
